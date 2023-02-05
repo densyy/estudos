@@ -37,4 +37,4 @@ while True:
     if (palpite == NUMERO_SORTEADO):
         acertou(tentativas)
     else:
-      errou(NUMERO_SORTEADO, palpite)
+        errou(NUMERO_SORTEADO, palpite)
